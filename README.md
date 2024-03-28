@@ -1,5 +1,3 @@
-# Shield-Insurance
-
 # Shield Insurance Data Analysis Project
 
 ## Video Presentation
